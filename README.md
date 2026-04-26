@@ -1,2 +1,17 @@
-# sonar-rock-vs-mine-prediction
-ML model to predict whether a sonar signal bounces off a Rock or Mine using Logistic Regression | Accuracy: 83.4% | Python, Scikit-learn, Pandas, NumPy
+# SONAR Rock vs Mine Prediction 🎯
+
+ML Classification model that predicts whether a 
+sonar signal bounces off a Rock or a Mine.
+
+## Results
+- Training Accuracy: 83.4%
+- Test Accuracy: 76.2%
+
+## Algorithm
+Logistic Regression
+
+## Libraries
+Python | NumPy | Pandas | Scikit-learn
+
+## Dataset
+UCI SONAR Dataset — 208 samples, 60 features
